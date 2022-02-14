@@ -130,4 +130,7 @@ dmypy.json
 
 # Data folders with images
 data/
+data/normal/
+data/pneumonia/
+
 
