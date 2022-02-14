@@ -132,6 +132,5 @@ dmypy.json
 data/
 data/normal/
 data/pneumonia/
-data/test/**
 
 
