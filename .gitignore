@@ -130,5 +130,5 @@ dmypy.json
 
 # Data folders with images
 
-
+data/split/**
 
