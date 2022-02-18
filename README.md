@@ -89,6 +89,7 @@ This project uses image recognition with deep learning, using the following tech
 Our CNN with pretrained MobileNetV2  model results are as follows:
 
 96.41% recall
+
 95.03% accuracy
 
 Below is an image showing the confusion matrix:
@@ -98,16 +99,20 @@ Below is an image showing the confusion matrix:
 After changing decision boundary we managed to improve our results:
 
 97.69% recall
+
 95.19% accuracy
 
 The last step was to identify boundries when we have the most model errors. We can highlight these cases and substract cases between these limits. They can be proceesed by doctors in the hospital during appointment, for better results. 
 In this case our finall result will be:
 
 99.92% recall
+
 97.26% accuracy
+
 6.41% Suspicious cases
 
 Confusion matrix:
+
 <img src='https://github.com/314ka4y/Image_classification/blob/main/img/CM_Pre-trained%20Augmented%20CNN%20200x200%20frozen%20layer%20VGG16.png'/>
 
 
