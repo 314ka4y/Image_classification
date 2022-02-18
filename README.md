@@ -122,7 +122,7 @@ This type of methodology can be extremely useful in the identification of infect
 
 
 # Further Questions
-See the full analysis in the [Jupyter Notebook](https://github.com/314ka4y/Image_classification/blob/main/Project_classification.ipynb) or review [this presentation](https://github.com/314ka4y/Image_classification/blob/main/Project_presentation.pdf)
+See the full analysis in the [Jupyter Notebook](https://github.com/314ka4y/Image_classification/blob/main/Pneumonia_image_recognition.ipynb) or review [this presentation](https://github.com/314ka4y/Image_classification/blob/main/Project_presentation.pdf)
 
 
 # Repository Structure
