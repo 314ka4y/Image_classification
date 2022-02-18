@@ -2,7 +2,7 @@
 
 # What is pneumonia?
 
-<img src='./images/300_pneu.png' width=300 align='right'/>
+<img src='https://github.com/314ka4y/Image_classification/blob/main/img/300_pneu.png' width=300 align='right'/>
 <br>
 Pneumonia is an inflammatory condition of the lung primarily affecting the small air sacs known as alveoli. Symptoms typically include some combination of productive or dry cough, chest pain, fever, and difficulty breathing. The severity of the condition is variable.
 Pneumonia is usually caused by infection with viruses or bacteria, and less commonly by other microorganisms.Identifying the responsible pathogen can be difficult. Diagnosis is often based on symptoms and physical examination. Chest X-rays, blood tests, and culture of the sputum may help confirm the diagnosis
